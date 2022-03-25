@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/icon">
-        <file>image/flag.png</file>
-        <file>image/mine.png</file>
-        <file>image/ques.jpg</file>
-    </qresource>
-</RCC>
